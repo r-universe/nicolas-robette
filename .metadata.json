@@ -1,5 +1,9 @@
 [
   {
+    "package": "descriptio",
+    "oncran": true
+  },
+  {
     "package": "GDAtools",
     "oncran": true
   }
