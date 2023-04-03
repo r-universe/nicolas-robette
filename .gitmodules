@@ -13,3 +13,8 @@
 	url = https://github.com/nicolas-robette/gdatools
 	shallow = true
 	registered = true
+[submodule "seqhandbook"]
+	path = seqhandbook
+	url = https://github.com/nicolas-robette/seqhandbook
+	shallow = true
+	registered = true
