@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "descriptio"]
-	path = descriptio
-	url = https://github.com/nicolas-robette/descriptio
 [submodule "GDAtools"]
 	path = GDAtools
 	url = https://github.com/nicolas-robette/gdatools
+[submodule "descriptio"]
+	path = descriptio
+	url = https://github.com/nicolas-robette/descriptio
 [submodule "seqhandbook"]
 	path = seqhandbook
 	url = https://github.com/nicolas-robette/seqhandbook
