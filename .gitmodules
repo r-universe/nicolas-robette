@@ -8,6 +8,15 @@
 [submodule "descriptio"]
 	path = descriptio
 	url = https://github.com/nicolas-robette/descriptio
+[submodule "moreparty"]
+	path = moreparty
+	url = https://github.com/nicolas-robette/moreparty
+[submodule "morepls"]
+	path = morepls
+	url = https://github.com/nicolas-robette/morepls
 [submodule "seqhandbook"]
 	path = seqhandbook
 	url = https://github.com/nicolas-robette/seqhandbook
+[submodule "translate.logit"]
+	path = translate.logit
+	url = https://github.com/cran/translate.logit
