@@ -4,19 +4,19 @@
 	branch = HEAD
 [submodule "GDAtools"]
 	path = GDAtools
-	url = https://github.com/nicolas-robette/gdatools
+	url = https://github.com/cran/GDAtools
 [submodule "descriptio"]
 	path = descriptio
-	url = https://github.com/nicolas-robette/descriptio
+	url = https://github.com/cran/descriptio
 [submodule "moreparty"]
 	path = moreparty
-	url = https://github.com/nicolas-robette/moreparty
+	url = https://github.com/cran/moreparty
 [submodule "morepls"]
 	path = morepls
-	url = https://github.com/nicolas-robette/morepls
+	url = https://github.com/cran/morepls
 [submodule "seqhandbook"]
 	path = seqhandbook
-	url = https://github.com/nicolas-robette/seqhandbook
+	url = https://github.com/cran/seqhandbook
 [submodule "translate.logit"]
 	path = translate.logit
 	url = https://github.com/cran/translate.logit
