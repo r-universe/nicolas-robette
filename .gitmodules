@@ -8,9 +8,6 @@
 [submodule "descriptio"]
 	path = descriptio
 	url = https://github.com/cran/descriptio
-[submodule "moreparty"]
-	path = moreparty
-	url = https://github.com/cran/moreparty
 [submodule "morepls"]
 	path = morepls
 	url = https://github.com/cran/morepls
